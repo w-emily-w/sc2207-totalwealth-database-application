@@ -9,4 +9,4 @@ This group assignment aims to design a database system for a fictional digital i
 ## Process
 1. Designing the database schema
 2. Implement the schema using Microsoft Server SQL using the `table_creation.sql` file.
-3. Populate the data and use SQL statements to solve the queries required, as shown in the `queries_and_output` file. 
+3. Populate the data and use SQL statements to solve the queries required, as shown in the `queries_and_outputs.pdf` file. 
